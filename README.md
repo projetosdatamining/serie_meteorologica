@@ -1,5 +1,5 @@
 
-# Serie meteorologica: Arquivo bhc_es.csv
+# Serie meteorologica (bhc_es.csv)
 
 Dados contém os seguintes valores para estações do Espírito Santo de 1977 a 2006
 
