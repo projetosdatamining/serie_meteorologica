@@ -1,4 +1,5 @@
-# serie_meteorologica
+
+# Serie meteorologica: Arquivo bhc_es.csv
 
 Dados contém os seguintes valores para estações do Espírito Santo de 1977 a 2006
 
@@ -21,3 +22,7 @@ Dados contém os seguintes valores para estações do Espírito Santo de 1977 a 
 <br>DEF	Deficiência hídrica
 <br>EXC	Excedente hídrico
 <br>ER/ETP	Evapotranspiração real dividade por evapotranspiração potencial
+
+#Shapefile de Dados de Municípios do Espirito Santo
+<br>Arquivo procesado pelo ISJN - Instituto Jones dos Santos Neves - no ano de 2013.
+<br>Referência: http://www.ijsn.es.gov.br/mapas/
